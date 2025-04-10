@@ -5,7 +5,7 @@
 | 📝 Notebook | 📺 Video |
 |------------|----------|
 | [TSP Nearest Neighbor](./tsp/TSP-Nearest-Neighbor.ipynb) | [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV14jRUYZEpn) |
-| [TSP 2-Opt](./tsp/TSP-2-Opt.ipynb) | Uploading... |
+| [TSP 2-Opt](./tsp/TSP-2-Opt.ipynb) | [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV15KdVYkEec/) |
 
 
 ## 🐳 Running Notebooks with Docker
