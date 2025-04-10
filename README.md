@@ -2,6 +2,6 @@
 
 ## 📓 Notebooks and Videos
 
-| Name                | 📝 Notebook | 📺 Video |
-|---------------------|----------|-------|
-| TSP Nearest Neighbor | [notebook](./tsp/TSP-Nearest-Neighbor.ipynb) | [bilibili](https://www.bilibili.com/video/BV14jRUYZEpn) (Zh) |
+| 📝 Notebook | 📺 Video |
+|------------|----------|
+| [TSP Nearest Neighbor](./tsp/TSP-Nearest-Neighbor.ipynb) | [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV14jRUYZEpn) (Zh) |
