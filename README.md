@@ -4,9 +4,9 @@
 
 | 📝 Notebook | 📺 Video |
 |------------|----------|
-| [TSP Nearest Neighbor](./tsp/TSP-Nearest-Neighbor.ipynb) | [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV14jRUYZEpn) |
-| [TSP 2-Opt](./tsp/TSP-2-Opt.ipynb) | [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV15KdVYkEec/) |
-| [Minimum Spanning Tree - Prim](./tsp/TSP-MST-Prim.ipynb) | Uploading... |
+| [Traveling Salesman Problem - Nearest Neighbor](./tsp/TSP-Nearest-Neighbor.ipynb) | [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV14jRUYZEpn) |
+| [Traveling Salesman Problem - 2-Opt](./tsp/TSP-2-Opt.ipynb) | [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV15KdVYkEec/) |
+| [Minimum Spanning Tree - Prim](./tsp/TSP-MST-Prim.ipynb) | [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV1MKdDYMEYg/) |
 
 
 ## 🐳 Running Notebooks with Docker
