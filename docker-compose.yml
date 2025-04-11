@@ -11,4 +11,5 @@ services:
       - JUPYTER_ENABLE_LAB=yes
       - CHOWN_HOME=yes
       - CHOWN_HOME_OPTS=-R
+      - JUPYTER_TOKEN=jupyter
     working_dir: /home/jovyan/work
