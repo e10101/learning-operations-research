@@ -1,6 +1,7 @@
-# 📚 Learning Operations Research
-
-![Banner](./assets/banner.svg)
+<!-- markdownlint-disable MD033 -->
+<div style="width: 100%; margin: 0 auto;">
+    <img src="./assets/banner.svg" alt="Learning Operations Research" style="width: 100%; height: auto; display: block;">
+</div>
 
 ## 📓 Notebooks and Videos
 
