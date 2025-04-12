@@ -10,6 +10,8 @@
 | [Traveling Salesman Problem - Nearest Neighbor](./tsp/TSP-Nearest-Neighbor.ipynb) | [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV14jRUYZEpn) |
 | [Traveling Salesman Problem - 2-Opt](./tsp/TSP-2-Opt.ipynb) | [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV15KdVYkEec/) |
 | [Minimum Spanning Tree - Prim](./tsp/TSP-MST-Prim.ipynb) | [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV1MKdDYMEYg/) |
+| [Minimum Spanning Tree - Kruskal](./tsp/TSP-MST-Kruskal.ipynb) | Uploading... |
+
 
 
 ## 🐳 Running Notebooks with Docker
