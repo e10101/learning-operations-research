@@ -1,5 +1,7 @@
 # 📚 Learning Operations Research
 
+![Banner](./assets/banner.svg)
+
 ## 📓 Notebooks and Videos
 
 | 📝 Notebook | 📺 Video |
