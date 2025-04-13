@@ -5,8 +5,8 @@
 
 ## 📓 Notebooks and Videos
 
-| 📝 Notebook | 📺 Video |
-|------------|----------|
+| 📝 Notebook | 📺 Video (🇨🇳) |
+|------------|------------|
 | [Traveling Salesman Problem - Nearest Neighbor](./network/TSP-Nearest-Neighbor.ipynb) | [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV14jRUYZEpn) |
 | [Traveling Salesman Problem - 2-Opt](./network/TSP-2-Opt.ipynb) | [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV15KdVYkEec/) |
 | [Minimum Spanning Tree - Prim](./network/TSP-MST-Prim.ipynb) | [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV1MKdDYMEYg/) |
