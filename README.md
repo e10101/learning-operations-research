@@ -5,7 +5,7 @@
 
 ## 📓 Notebooks and Videos
 
-| 📝 Notebook | 📺 Video (🇨🇳) |
+| 📝 Notebook | 📺 Video (<span title="Mandarin">🇨🇳</span>) |
 |------------|------------|
 | [Traveling Salesman Problem - Nearest Neighbor](./network/TSP-Nearest-Neighbor.ipynb) | [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV14jRUYZEpn) |
 | [Traveling Salesman Problem - 2-Opt](./network/TSP-2-Opt.ipynb) | [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV15KdVYkEec/) |
