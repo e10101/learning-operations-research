@@ -16,7 +16,9 @@
 
 ## 🐳 Running Notebooks with Docker
 
-This project uses Docker to provide a consistent environment for running Jupyter notebooks. The setup includes Jupyter Lab with scientific Python packages pre-installed.
+This project uses Docker to provide a consistent environment for running Jupyter notebooks. The setup includes:
+- Jupyter Lab with scientific Python packages pre-installed
+- Gurobi optimization environment with Jupyter Lab
 
 ### Prerequisites
 
@@ -25,24 +27,26 @@ This project uses Docker to provide a consistent environment for running Jupyter
 
 ### Quick Start
 
-1. Start the Jupyter Lab server:
+1. Start the services:
 
    ```bash
    docker-compose up
    ```
 
-2. Open your browser and navigate to:
+2. Access the services in your browser:
 
-   ```
-   http://localhost:8888
-   ```
+   - Jupyter Lab: `http://localhost:8888` (token: `jupyter`)
+   - Gurobi Lab: `http://localhost:8889` (token: `gurobi`)
 
-3. You'll find the notebooks in the `work` directory.
+3. You'll find the notebooks in the mounted directories:
+   - Jupyter: `/home/jovyan/work`
+   - Gurobi: `/home/gurobi`
 
 ### Features
 
-- Jupyter Lab interface
+- Jupyter Lab interface for both services
 - Scientific Python stack pre-installed
+- Gurobi optimization environment
 - Automatic volume mounting (changes are saved to your local files)
 - Persistent workspace
 

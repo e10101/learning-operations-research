@@ -13,3 +13,17 @@ services:
       - CHOWN_HOME_OPTS=-R
       - JUPYTER_TOKEN=jupyter
     working_dir: /home/jovyan/work
+
+  gurobi:
+    image: gurobi/modeling-examples:latest
+    ports:
+      - "8889:8888"
+    volumes:
+      - ./:/home/gurobi
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+      - CHOWN_HOME=yes
+      - CHOWN_HOME_OPTS=-R
+      - JUPYTER_TOKEN=gurobi
+    entrypoint: [ "jupyter", "lab", "--ip=0.0.0.0", "--port=8888", "--allow-root", "--NotebookApp.token=gurobi" ]
+    working_dir: /home/gurobi
