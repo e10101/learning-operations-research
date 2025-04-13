@@ -7,11 +7,11 @@
 
 | 📝 Notebook | 📺 Video |
 |------------|----------|
-| [Traveling Salesman Problem - Nearest Neighbor](./tsp/TSP-Nearest-Neighbor.ipynb) | [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV14jRUYZEpn) |
-| [Traveling Salesman Problem - 2-Opt](./tsp/TSP-2-Opt.ipynb) | [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV15KdVYkEec/) |
-| [Minimum Spanning Tree - Prim](./tsp/TSP-MST-Prim.ipynb) | [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV1MKdDYMEYg/) |
-| [Minimum Spanning Tree - Kruskal](./tsp/TSP-MST-Kruskal.ipynb) |[![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV1QpdhY9EW5/) [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV1B3dhYwEJ1/)  |
-
+| [Traveling Salesman Problem - Nearest Neighbor](./network/TSP-Nearest-Neighbor.ipynb) | [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV14jRUYZEpn) |
+| [Traveling Salesman Problem - 2-Opt](./network/TSP-2-Opt.ipynb) | [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV15KdVYkEec/) |
+| [Minimum Spanning Tree - Prim](./network/TSP-MST-Prim.ipynb) | [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV1MKdDYMEYg/) |
+| [Minimum Spanning Tree - Kruskal](./network/TSP-MST-Kruskal.ipynb) | [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV1QpdhY9EW5/) [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV1B3dhYwEJ1/)  |
+| [Minimum-Cost Network Flow Problems](./network/MCNFP.ipynb) | [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV1xDdzYqEU2/) [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV17Td6YdEv9/)  |
 
 
 ## 🐳 Running Notebooks with Docker
