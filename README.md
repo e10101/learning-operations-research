@@ -13,6 +13,7 @@
 | [Minimum Spanning Tree - Kruskal](./network/TSP-MST-Kruskal.ipynb) | [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV1QpdhY9EW5/) [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV1B3dhYwEJ1/)  |
 | [Minimum-Cost Network Flow Problems](./network/MCNFP.ipynb) | [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV1xDdzYqEU2/) [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV17Td6YdEv9/) [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV164oLYfEaR/) |
 | [Integer Programming - Set-Covering Problems](./integer-programming/ip-set-covering-problems.ipynb) | [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV1HYdfYDEd7/) [![Bilibili](./assets/badges/bilibili.svg)](https://www.bilibili.com/video/BV1sbdfYWEWF/)  |
+| [Integer Programming - Piecewise Linear Functions](./integer-programming/piecewise-linear-functions.ipynb) | Uploading... |
 
 
 ## 🐳 Running Notebooks with Docker
